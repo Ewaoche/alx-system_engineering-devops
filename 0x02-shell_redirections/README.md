@@ -1,1 +1,1 @@
-Learn redirections
+#!/bin/bash run this script in bash
