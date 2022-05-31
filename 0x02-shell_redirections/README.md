@@ -1,1 +1,1 @@
-Task 7: script  that creates a file containing the text Best School ending by a new line.
+Task 24: A script that lists all the files with a .gif extension in the current directory and all its sub-directories.
