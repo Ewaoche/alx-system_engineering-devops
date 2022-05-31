@@ -1,1 +1,1 @@
-Task 23: A script that finds all empty files and directories in the current directory and all sub-directories.
+Task 24: A script that lists all the files with a .gif extension in the current directory and all its sub-directories.
