@@ -1,1 +1,1 @@
-#!/bin/bash Means run this script in bash
+#!/bin/bash run this script in bash
