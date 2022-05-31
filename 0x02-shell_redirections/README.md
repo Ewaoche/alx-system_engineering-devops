@@ -1,1 +1,1 @@
-hello world script
+#!/bin/bash Means run this script in bash
