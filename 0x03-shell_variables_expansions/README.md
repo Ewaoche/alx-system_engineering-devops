@@ -1,1 +1,1 @@
-Task 6: A script that creates a new local variable.
+Task 7: A Create a script that creates a new global variable.
