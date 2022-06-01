@@ -1,1 +1,1 @@
-Task 10: A script that displays the result of BREATH to the power LOVE
+Task 6: A script that creates a new local variable.
